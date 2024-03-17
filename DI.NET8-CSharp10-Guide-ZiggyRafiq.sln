@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI.NET8-CSharp10-Guide-ZiggyRafiq", "DI.NET8-CSharp10-Guide-ZiggyRafiq\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj", "{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {505D50BF-FCF4-48E5-AC54-63A9A58A048F}
+	EndGlobalSection
+EndGlobal

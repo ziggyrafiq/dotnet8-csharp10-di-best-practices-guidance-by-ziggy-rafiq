@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|e:\\github\\articles-posts\\c#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\di.net8-csharp10-guide-ziggyrafiq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|solutionrelative:di.net8-csharp10-guide-ziggyrafiq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|e:\\github\\articles-posts\\c#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\di.net8-csharp10-guide-ziggyrafiq\\controller\\ziggyrafiqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|solutionrelative:di.net8-csharp10-guide-ziggyrafiq\\controller\\ziggyrafiqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|e:\\github\\articles-posts\\c#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\di.net8-csharp10-guide-ziggyrafiq\\constructorinjection\\ziggyrafiqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|solutionrelative:di.net8-csharp10-guide-ziggyrafiq\\constructorinjection\\ziggyrafiqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|e:\\github\\articles-posts\\c#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\di.net8-csharp10-guide-ziggyrafiq\\di.net8-csharp10-guide-ziggyrafiq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1055AF7B-81BD-4E2F-B2B5-EF2A91411E7D}|DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj|solutionrelative:di.net8-csharp10-guide-ziggyrafiq\\di.net8-csharp10-guide-ziggyrafiq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZiggyRafiqController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\Controller\\ZiggyRafiqController.cs",
+              "RelativeDocumentMoniker": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\Controller\\ZiggyRafiqController.cs",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\Controller\\ZiggyRafiqController.cs",
+              "RelativeToolTip": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\Controller\\ZiggyRafiqController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T17:31:51.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj",
+              "RelativeDocumentMoniker": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj",
+              "RelativeToolTip": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T17:31:29.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZiggyRafiqService.cs",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\ConstructorInjection\\ZiggyRafiqService.cs",
+              "RelativeDocumentMoniker": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\ConstructorInjection\\ZiggyRafiqService.cs",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\ConstructorInjection\\ZiggyRafiqService.cs",
+              "RelativeToolTip": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\ConstructorInjection\\ZiggyRafiqService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T17:29:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\Program.cs",
+              "RelativeDocumentMoniker": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\Program.cs",
+              "ToolTip": "E:\\GitHub\\Articles-Posts\\C#\\dotnet8-csharp10-di-best-practices-guidance-by-ziggy-rafiq\\DI.NET8-CSharp10-Guide-ZiggyRafiq\\Program.cs",
+              "RelativeToolTip": "DI.NET8-CSharp10-Guide-ZiggyRafiq\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T17:28:17.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
